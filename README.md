@@ -48,11 +48,4 @@ Ky projekt në Java simulon një sistem spitalor që menaxhon:
 
 
 
-\## Si të ekzekutosh
-
-```bash
-
-javac src/main/HospitalSimulation.java
-
-java src.main.HospitalSimulation
 
